@@ -5,6 +5,27 @@
   box-sizing: border-box;
 }
 
+
+header {
+  margin: 44px 0 144px 76px;
+}
+
+.link-header {
+  font-weight: 600;
+  font-size: 24px;
+  font-weight: 29px;
+  color: #989d9c;
+  cursor: pointer;
+  margin-right: 23px;
+}
+
+.button-header {
+  background: #665AE1;
+  border-radius: 20.5px;
+  width: 130px;
+  height: 41px;
+}
+
 .img-logo {
   width: 568px;
   height: 500px;
