@@ -1,3 +1,12 @@
 * {
   font-family: 'Montserrat', sem serifa;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
+.img-logo {
+  width: 568px;
+  height: 500px;
+}
+
