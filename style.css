@@ -24,12 +24,53 @@ header {
   border-radius: 20.5px;
   width: 130px;
   height: 41px;
+  border: none;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+  cursor: pointer;
 }
 
 .img-logo {
   width: 568px;
   height: 500px;
+  margin-left: 125px;
+  display: inline-block;
 }
 
+section {
+  display: inline-block;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 100px;
+  line-height: 122px;
+  color: #515151;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 71px;
+  color: #515151;
+}
+
+p {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #848484;
+  width: 515px;
+}
+.button-main {
+  background: #ADFF00;
+  border-radius: 20.5;
+  width: 239px;
+  height: 64px;
+  border: none;
+  cursor: pointer;
+}
 
 
