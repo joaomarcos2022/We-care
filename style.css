@@ -66,11 +66,16 @@ p {
 }
 .button-main {
   background: #ADFF00;
-  border-radius: 20.5;
+  border-radius: 30px;
   width: 239px;
   height: 64px;
   border: none;
   cursor: pointer;
+  filter: drop-shadow(0px 4px 4px #000000);
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  color: #000000;
 }
 
 
